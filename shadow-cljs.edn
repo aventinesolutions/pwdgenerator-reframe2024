@@ -7,7 +7,7 @@
  :dependencies
  [[reagent "1.1.1"]
   [re-frame "1.4.2"]
-
+  [com.degel/re-frame-firebase "0.8.0"]
   [binaryage/devtools "1.0.6"]]
 
  :dev-http

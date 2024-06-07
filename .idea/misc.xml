@@ -6,4 +6,7 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="RVM: ruby-3.2.2 [pwdgenerator-reframe2024]" project-jdk-type="RUBY_SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="TaskProjectConfiguration">
+    <server type="PivotalTracker" url="https://www.pivotaltracker.com" />
+  </component>
 </project>
